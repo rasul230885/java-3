@@ -1,4 +1,4 @@
-# Назвние приложения Precision
+# Назвние приложения Money Transfer
 
 ## Отчет о тестировании Money Transfer
 
