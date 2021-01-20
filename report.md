@@ -11,7 +11,7 @@
 Проведено функциональное тестирование где Int заменен на Long
 
 ### Результаты:
-* [введены неверные переменные](https://github.com/rasul230885/java-3/issues/1#issue-787524329)
+* [неверные переменные](https://github.com/rasul230885/java-3/issues/1#issue-787524329)
 
 ### Окружение:
 ASUS. windows 10. 64-bit
